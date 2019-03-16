@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PostService.loadPosts(page:completion:):PostService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Endpoint.page.path + String(page)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
